@@ -1,8 +1,6 @@
-# Teapot Laboratories
+# Projects
 
-## Projects
-
-### Teapot BWLR1B
+## Teapot BWLR1B
 
 <img align="right" width="25%" height="25%" src="https://github.com/teapotlaboratories/bwlr1b/raw/master/docs/images/open_case.jpg">
 
@@ -21,7 +19,7 @@ Specification:
 
 [Link to project](https://github.com/teapotlaboratories/bwlr1b)
 
-### Teapot BWLR1C
+## Teapot BWLR1C
 
 <img align="right" width="35%" height="35%" src="https://raw.githubusercontent.com/teapotlaboratories/bwlr1c/main/docs/images/case_open.jpg">
 
@@ -39,7 +37,7 @@ Specification:
 
 [Link to project](https://github.com/teapotlaboratories/bwlr1c)
 
-### Teapot BWLR1E
+## Teapot BWLR1E
 
 <img align="right" width="35%" height="35%" src="https://raw.githubusercontent.com/teapotlaboratories/bwlr1e/main/docs/images/case_open.jpg">
 
