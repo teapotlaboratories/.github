@@ -54,7 +54,6 @@ Specification:
 -   Switchable TX Power. 14 dBm(50mA) or 22 dBm(140mA)
 -   Supports LoRaWAN 1.0.3
 -   ~1KM Range
--   IPEX antenna connector
 -   3.7 Volts LiPo Battery
 
 [Link to project](https://github.com/teapotlaboratories/bwlr1e)
