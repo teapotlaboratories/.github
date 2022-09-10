@@ -4,7 +4,7 @@
 
 ### Teapot BWLR1B
 
-<img align="right" width="30%" height="30%" src="https://github.com/teapotlaboratories/bwlr1b/raw/master/docs/images/open_case.jpg">
+<img align="right" width="25%" height="25%" src="https://github.com/teapotlaboratories/bwlr1b/raw/master/docs/images/open_case.jpg">
 
 Battery-powered Wireless LoRa Environmental Sensor with External Antenna
 Specification:
@@ -23,7 +23,7 @@ Specification:
 
 ### Teapot BWLR1C
 
-<img align="right" width="45%" height="45%" src="https://raw.githubusercontent.com/teapotlaboratories/bwlr1c/main/docs/images/case_open.jpg">
+<img align="right" width="35%" height="35%" src="https://raw.githubusercontent.com/teapotlaboratories/bwlr1c/main/docs/images/case_open.jpg">
 
 Battery-powered Wireless LoRa Environmental Sensor with On-board Antenna
 Specification:
@@ -41,7 +41,7 @@ Specification:
 
 ### Teapot BWLR1E
 
-<img align="right" width="50%" height="50%" src="https://raw.githubusercontent.com/teapotlaboratories/bwlr1e/main/docs/images/case_open.jpg">
+<img align="right" width="35%" height="35%" src="https://raw.githubusercontent.com/teapotlaboratories/bwlr1e/main/docs/images/case_open.jpg">
 
 Battery-powered Wireless LoRa Environmental Sensor with Energy Harvesting from Solar Energy
 Specification:
