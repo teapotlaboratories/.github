@@ -59,7 +59,7 @@ Specification:
 
 ## Teapot BWLR3D
 
-<img align="right" width="45%" height="45%" src="https://raw.githubusercontent.com/teapotlaboratories/bwlr3d/main/docs/images/case_open.jpg">
+<img align="right" width="36%" height="36%" src="https://raw.githubusercontent.com/teapotlaboratories/bwlr3d/main/docs/images/case_open.jpg">
 
 Teapot BWLR3D is an Asset Tracker and Environmental Sensor with Solar Energy Harvesting. <br>
 Specification:
