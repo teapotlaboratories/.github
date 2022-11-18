@@ -1,3 +1,4 @@
+
 # Projects
 
 ## Teapot BWLR1B
@@ -55,3 +56,29 @@ Specification:
 -   3.7 Volts LiPo Battery
 
 [Link to project](https://github.com/teapotlaboratories/bwlr1e)
+
+## Teapot BWLR3D
+
+<img align="right" width="45%" height="45%" src="https://raw.githubusercontent.com/teapotlaboratories/bwlr3d/main/docs/images/case_open.jpg">
+
+Teapot BWLR3D is an Asset Tracker and Environmental Sensor with Solar Energy Harvesting. <br>
+Specification:
+-   **RAK3172** An STM32WLE5CC module
+-   **AEM10941**: Solar energy harvesting chip
+-   On-board sensors:
+    -   **L86-M33**: GNSS module
+    -   **LSM6DSOX**: Accelerometer and Gyrometer
+    -   **LIS3MDL**: Magnetometer
+    -   **VEML7700**: Ambient Light Intensity meter
+    -   **BME688**: Environmental sensor
+-   3.3V only power/pin.
+-   12uA Deep-Sleep
+-   Switchable TX Power. 14 dBm(50mA) or 22 dBm(140mA) ( on 915MHz frequency )
+-   Supports LoRaWAN 1.0.3
+-   1KM+ Range
+-   UART2 breakout for  **Arduino**  progamming
+-   SWD breakout for  **Mbed OS/STM32Cube**  programming
+-   IPEX antenna connector
+-   3.7 Volts LiPo Battery
+
+[Link to project](https://github.com/teapotlaboratories/bwlr3d)
