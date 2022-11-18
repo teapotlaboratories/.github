@@ -73,12 +73,9 @@ Specification:
     -   **BME688**: Environmental sensor
 -   3.3V only power/pin.
 -   12uA Deep-Sleep
--   Switchable TX Power. 14 dBm(50mA) or 22 dBm(140mA) ( on 915MHz frequency )
+-   Switchable TX Power. 14 dBm(50mA) or 22 dBm(140mA)
 -   Supports LoRaWAN 1.0.3
 -   1KM+ Range
--   UART2 breakout for  **Arduino**  progamming
--   SWD breakout for  **Mbed OS/STM32Cube**  programming
--   IPEX antenna connector
 -   3.7 Volts LiPo Battery
 
 [Link to project](https://github.com/teapotlaboratories/bwlr3d)
