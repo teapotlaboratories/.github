@@ -84,7 +84,7 @@ Specification:
 
 ## Teapot Feather RAK3172
 
-<img align="right" width="33%" height="33%" src="https://raw.githubusercontent.com/teapotlaboratories/feather-rak3172/main/docs/images/case_open.jpg">
+<img align="right" width="25%" height="25%" src="https://raw.githubusercontent.com/teapotlaboratories/feather-rak3172/main/docs/images/case_open.jpg">
 
 Teapot Feather RAK3172 is a Low-cost Low-Power LoRaWAN Development Board. It breaks out  [RAKwireless RAK3172](https://docs.rakwireless.com/Product-Categories/WisDuo/RAK3172-Module/Datasheet)  to an Adafruit Feather-compatible format.  <br>
 
