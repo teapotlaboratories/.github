@@ -1,4 +1,5 @@
 
+  
 # Projects
 
 ## Teapot BWLR1B
@@ -79,3 +80,35 @@ Specification:
 -   3.7 Volts LiPo Battery
 
 [Link to project](https://github.com/teapotlaboratories/bwlr3d)
+
+
+## Teapot Feather RAK3172
+
+<img align="right" width="33%" height="33%" src="https://raw.githubusercontent.com/teapotlaboratories/feather-rak3172/main/docs/images/case_open.jpg">
+
+Teapot Feather RAK3172 is a Low-cost Low-Power LoRaWAN Development Board. It breaks out  [RAKwireless RAK3172](https://docs.rakwireless.com/Product-Categories/WisDuo/RAK3172-Module/Datasheet)  to an Adafruit Feather-compatible format.  <br>
+
+Specification:
+-   [RAK3172](https://docs.rakwireless.com/Product-Categories/WisDuo/RAK3172-Module/Overview/): An STM32WLE5CC module
+-   3.3V only power/pin.
+-   Up to 12uA Deep-Sleep
+-   Switchable TX Power. 14 dBm or 22 dBm on 915MHz frequency
+-   Supports LoRaWAN 1.0.3
+-   USB-C for  **Arduino**  and  **Mbed OS/STM32Cube**  programming
+-   SMA antenna connector
+-   JST-PH 2-Pin Battery Connector
+-   Built-in LiPo Charger ( 200mA Charge Rate )
+-   Voltage-Divider for Battery Monitoring ( default:  **disabled**  )
+-   LED Indicator on pin 8 ( default:  **disabled**  )
+-   Compatible with many Adafruit FeatherWings
+-   Max 1A power output
+
+[Link to project](https://github.com/teapotlaboratories/feather-rak3172)
+
+## Donate
+We are a team of makers and innovators who design and build open-source hardware that anyone can build. Our goal is to make technology accessible to everyone and inspire creativity and innovation around the world
+
+The hardware we design, build, and tested comes from our pocket. Any type of contribution is welcome to keep us innovating free open-source hardware!
+
+Thanks in advance to all of you!
+<p ><a href="https://www.buymeacoffee.com/teapotlabs"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="teapotlabs" /></a></p><br><br>
