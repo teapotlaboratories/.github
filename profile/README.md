@@ -108,7 +108,7 @@ Specification:
 ## Donate
 We are a team of makers and innovators who design and build open-source hardware that anyone can build. Our goal is to make technology accessible to everyone and inspire creativity and innovation around the world
 
-The hardware we design, build, and tested comes from our pocket. Any type of contribution is welcome to keep us innovating free open-source hardware!
+The hardware we design, build, and tested comes from our own pocket. Any contribution is welcome to keep us innovating free open-source hardware!
 
 Thanks in advance to all of you!
 <p ><a href="https://www.buymeacoffee.com/teapotlabs"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="teapotlabs" /></a></p><br><br>
