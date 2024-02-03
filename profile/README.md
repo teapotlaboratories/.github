@@ -1,12 +1,30 @@
-
-  
 # Projects
 
-## Teapot Feather RAK3172
+## Teapotlabs Plantpal
+
+<img align="right" width="25%" height="25%" src="https://media.githubusercontent.com/media/teapotlaboratories/plantpal/main/docs/images/device.jpg">
+
+This adorable device uses capacitive sensing to measure soil moisture. Its low-power e-paper display keeps you updated without draining energy. Plus, with the BME688 sensor, it is able to monitor air quality and CO2 levels, ensuring your plants thrive in optimal conditions. Precision gardening made cute!  <br>
+
+Specification:
+- [ESP32-C6FH4](https://www.espressif.com/sites/default/files/documentation/esp32-c6_datasheet_en.pdf): ESP32-C6 with 4 MB in-package flash
+- [AEM10941](https://e-peas.com/product/aem10941): Solar energy harvesting
+- USB-C for charging and programming
+- ~16uA Deep-Sleep
+- 1.54 Inch E-Paper Display
+- Sensor:
+	- `BME688` for Environmental Sensing
+	- Built-in `Soil Moisture` sensor
+	- `Battery voltage` sensing
+- 1A charge rate via USB
+- 3.7 Volts LiPo Battery
+
+[Link to project](https://github.com/teapotlaboratories/feather-rak3172)
+## Teapotlabs Feather RAK3172
 
 <img align="right" width="25%" height="25%" src="https://raw.githubusercontent.com/teapotlaboratories/feather-rak3172/main/docs/images/case_open.jpg">
 
-Teapot Feather RAK3172 is a Low-cost Low-Power LoRaWAN Development Board. It breaks out  [RAKwireless RAK3172](https://docs.rakwireless.com/Product-Categories/WisDuo/RAK3172-Module/Datasheet)  to an Adafruit Feather-compatible format.  <br>
+Teapotlabs Feather RAK3172 is a Low-cost Low-Power LoRaWAN Development Board. It breaks out  [RAKwireless RAK3172](https://docs.rakwireless.com/Product-Categories/WisDuo/RAK3172-Module/Datasheet)  to an Adafruit Feather-compatible format.  <br>
 
 Specification:
 -   [RAK3172](https://docs.rakwireless.com/Product-Categories/WisDuo/RAK3172-Module/Overview/): An STM32WLE5CC module
@@ -25,11 +43,11 @@ Specification:
 
 [Link to project](https://github.com/teapotlaboratories/feather-rak3172)
 
-## Teapot BWLR3D
+## Teapotlabs BWLR3D
 
 <img align="right" width="36%" height="36%" src="https://raw.githubusercontent.com/teapotlaboratories/bwlr3d/main/docs/images/case_open.jpg">
 
-Teapot BWLR3D is an Asset Tracker and Environmental Sensor with Solar Energy Harvesting. <br>
+Teapotlabs BWLR3D is an Asset Tracker and Environmental Sensor with Solar Energy Harvesting. <br>
 Specification:
 -   **RAK3172** An STM32WLE5CC module
 -   **AEM10941**: Solar energy harvesting chip
@@ -48,7 +66,7 @@ Specification:
 
 [Link to project](https://github.com/teapotlaboratories/bwlr3d)
 
-## Teapot BWLR1E
+## Teapotlabs BWLR1E
 
 <img align="right" width="35%" height="35%" src="https://raw.githubusercontent.com/teapotlaboratories/bwlr1e/main/docs/images/case_open.jpg">
 
@@ -67,7 +85,7 @@ Specification:
 
 [Link to project](https://github.com/teapotlaboratories/bwlr1e)
 
-## Teapot BWLR1C
+## Teapotlabs BWLR1C
 
 <img align="right" width="35%" height="35%" src="https://raw.githubusercontent.com/teapotlaboratories/bwlr1c/main/docs/images/case_open.jpg">
 
@@ -85,7 +103,7 @@ Specification:
 
 [Link to project](https://github.com/teapotlaboratories/bwlr1c)
 
-## Teapot BWLR1B
+## Teapotlabs BWLR1B
 
 <img align="right" width="25%" height="25%" src="https://github.com/teapotlaboratories/bwlr1b/raw/master/docs/images/open_case.jpg">
 
