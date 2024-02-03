@@ -2,61 +2,28 @@
   
 # Projects
 
-## Teapot BWLR1B
+## Teapot Feather RAK3172
 
-<img align="right" width="25%" height="25%" src="https://github.com/teapotlaboratories/bwlr1b/raw/master/docs/images/open_case.jpg">
+<img align="right" width="25%" height="25%" src="https://raw.githubusercontent.com/teapotlaboratories/feather-rak3172/main/docs/images/case_open.jpg">
 
-Battery-powered Wireless LoRa Environmental Sensor with External Antenna<br>
+Teapot Feather RAK3172 is a Low-cost Low-Power LoRaWAN Development Board. It breaks out  [RAKwireless RAK3172](https://docs.rakwireless.com/Product-Categories/WisDuo/RAK3172-Module/Datasheet)  to an Adafruit Feather-compatible format.  <br>
+
 Specification:
-
--   **RAK3172**: STM32WLE5CC module
+-   [RAK3172](https://docs.rakwireless.com/Product-Categories/WisDuo/RAK3172-Module/Overview/): An STM32WLE5CC module
 -   3.3V only power/pin.
--   2uA Deep-Sleep
--   BME68x for Environmental Sensing
--   Switchable TX Power. 14 dBm(50mA) or 22 dBm(140mA)
+-   Up to 12uA Deep-Sleep
+-   Switchable TX Power. 14 dBm or 22 dBm on 915MHz frequency
 -   Supports LoRaWAN 1.0.3
--   1KM+ Range
+-   USB-C for  **Arduino**  and  **Mbed OS/STM32Cube**  programming
 -   SMA antenna connector
--   **CR2450**  battery holder  _xor_  **AA**  battery holder
+-   JST-PH 2-Pin Battery Connector
+-   Built-in LiPo Charger ( 200mA Charge Rate )
+-   Voltage-Divider for Battery Monitoring ( default:  **disabled**  )
+-   LED Indicator on pin 8 ( default:  **disabled**  )
+-   Compatible with many Adafruit FeatherWings
+-   Max 1A power output
 
-[Link to project](https://github.com/teapotlaboratories/bwlr1b)
-
-## Teapot BWLR1C
-
-<img align="right" width="35%" height="35%" src="https://raw.githubusercontent.com/teapotlaboratories/bwlr1c/main/docs/images/case_open.jpg">
-
-Battery-powered Wireless LoRa Environmental Sensor with On-board Antenna<br>
-Specification:
-
--   **RAK3172**: STM32WLE5CC module
--   3.3V only power/pin.
--   2uA Deep-Sleep
--   BME68x for Environmental Sensing
--   Switchable TX Power. 14 dBm(50mA) or 22 dBm(140mA)
--   Supports LoRaWAN 1.0.3
--   ~1KM Range
--   **CR2450**  battery holder  _xor_  **AA**  battery holder
-
-[Link to project](https://github.com/teapotlaboratories/bwlr1c)
-
-## Teapot BWLR1E
-
-<img align="right" width="35%" height="35%" src="https://raw.githubusercontent.com/teapotlaboratories/bwlr1e/main/docs/images/case_open.jpg">
-
-Battery-powered Wireless LoRa Environmental Sensor with Energy Harvesting from Solar Energy<br>
-Specification:
-
--   **RAK3172**: An STM32WLE5CC module
--   **AEM10941**: Solar energy harvesting
--   3.3V only power/pin.
--   3uA Deep-Sleep
--   BME68x for Environmental Sensing
--   Switchable TX Power. 14 dBm(50mA) or 22 dBm(140mA)
--   Supports LoRaWAN 1.0.3
--   ~1KM Range
--   3.7 Volts LiPo Battery
-
-[Link to project](https://github.com/teapotlaboratories/bwlr1e)
+[Link to project](https://github.com/teapotlaboratories/feather-rak3172)
 
 ## Teapot BWLR3D
 
@@ -81,29 +48,62 @@ Specification:
 
 [Link to project](https://github.com/teapotlaboratories/bwlr3d)
 
+## Teapot BWLR1E
 
-## Teapot Feather RAK3172
+<img align="right" width="35%" height="35%" src="https://raw.githubusercontent.com/teapotlaboratories/bwlr1e/main/docs/images/case_open.jpg">
 
-<img align="right" width="25%" height="25%" src="https://raw.githubusercontent.com/teapotlaboratories/feather-rak3172/main/docs/images/case_open.jpg">
-
-Teapot Feather RAK3172 is a Low-cost Low-Power LoRaWAN Development Board. It breaks out  [RAKwireless RAK3172](https://docs.rakwireless.com/Product-Categories/WisDuo/RAK3172-Module/Datasheet)  to an Adafruit Feather-compatible format.  <br>
-
+Battery-powered Wireless LoRa Environmental Sensor with Energy Harvesting from Solar Energy<br>
 Specification:
--   [RAK3172](https://docs.rakwireless.com/Product-Categories/WisDuo/RAK3172-Module/Overview/): An STM32WLE5CC module
--   3.3V only power/pin.
--   Up to 12uA Deep-Sleep
--   Switchable TX Power. 14 dBm or 22 dBm on 915MHz frequency
--   Supports LoRaWAN 1.0.3
--   USB-C for  **Arduino**  and  **Mbed OS/STM32Cube**  programming
--   SMA antenna connector
--   JST-PH 2-Pin Battery Connector
--   Built-in LiPo Charger ( 200mA Charge Rate )
--   Voltage-Divider for Battery Monitoring ( default:  **disabled**  )
--   LED Indicator on pin 8 ( default:  **disabled**  )
--   Compatible with many Adafruit FeatherWings
--   Max 1A power output
 
-[Link to project](https://github.com/teapotlaboratories/feather-rak3172)
+-   **RAK3172**: An STM32WLE5CC module
+-   **AEM10941**: Solar energy harvesting
+-   3.3V only power/pin.
+-   3uA Deep-Sleep
+-   BME68x for Environmental Sensing
+-   Switchable TX Power. 14 dBm(50mA) or 22 dBm(140mA)
+-   Supports LoRaWAN 1.0.3
+-   ~1KM Range
+-   3.7 Volts LiPo Battery
+
+[Link to project](https://github.com/teapotlaboratories/bwlr1e)
+
+## Teapot BWLR1C
+
+<img align="right" width="35%" height="35%" src="https://raw.githubusercontent.com/teapotlaboratories/bwlr1c/main/docs/images/case_open.jpg">
+
+Battery-powered Wireless LoRa Environmental Sensor with On-board Antenna<br>
+Specification:
+
+-   **RAK3172**: STM32WLE5CC module
+-   3.3V only power/pin.
+-   2uA Deep-Sleep
+-   BME68x for Environmental Sensing
+-   Switchable TX Power. 14 dBm(50mA) or 22 dBm(140mA)
+-   Supports LoRaWAN 1.0.3
+-   ~1KM Range
+-   **CR2450**  battery holder  _xor_  **AA**  battery holder
+
+[Link to project](https://github.com/teapotlaboratories/bwlr1c)
+
+## Teapot BWLR1B
+
+<img align="right" width="25%" height="25%" src="https://github.com/teapotlaboratories/bwlr1b/raw/master/docs/images/open_case.jpg">
+
+Battery-powered Wireless LoRa Environmental Sensor with External Antenna<br>
+Specification:
+
+-   **RAK3172**: STM32WLE5CC module
+-   3.3V only power/pin.
+-   2uA Deep-Sleep
+-   BME68x for Environmental Sensing
+-   Switchable TX Power. 14 dBm(50mA) or 22 dBm(140mA)
+-   Supports LoRaWAN 1.0.3
+-   1KM+ Range
+-   SMA antenna connector
+-   **CR2450**  battery holder  _xor_  **AA**  battery holder
+
+[Link to project](https://github.com/teapotlaboratories/bwlr1b)
+
 
 ## Donate
 We are a team of makers and innovators who design and build open-source hardware that anyone can build. Our goal is to make technology accessible to everyone and inspire creativity and innovation around the world
