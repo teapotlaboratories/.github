@@ -19,7 +19,8 @@ Specification:
 - 1A charge rate via USB
 - 3.7 Volts LiPo Battery
 
-[Link to project](https://github.com/teapotlaboratories/feather-rak3172)
+[Link to project](https://github.com/teapotlaboratories/plantpal)
+
 ## Teapotlabs Feather RAK3172
 
 <img align="right" width="25%" height="25%" src="https://raw.githubusercontent.com/teapotlaboratories/feather-rak3172/main/docs/images/case_open.jpg">
