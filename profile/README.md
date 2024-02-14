@@ -10,7 +10,7 @@ Specification:
 - [ESP32-C6FH4](https://www.espressif.com/sites/default/files/documentation/esp32-c6_datasheet_en.pdf): ESP32-C6 with 4 MB in-package flash
 - [AEM10941](https://e-peas.com/product/aem10941): Solar energy harvesting
 - USB-C for charging and programming
-- ~16uA Deep-Sleep
+- ~21uA Deep-Sleep
 - 1.54 Inch E-Paper Display
 - Sensor:
 	- `BME688` for Environmental Sensing
