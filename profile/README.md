@@ -4,7 +4,7 @@
 
 <img align="right" width="25%" height="25%" src="https://media.githubusercontent.com/media/teapotlaboratories/plantpal/main/docs/images/device.jpg">
 
-This adorable device uses capacitive sensing to measure soil moisture. Its low-power e-paper display keeps you updated without draining energy. Plus, with the BME688 sensor, it is able to monitor air quality and CO2 levels, ensuring your plants thrive in optimal conditions. Precision gardening made cute!  <br>
+Your pal in plant care! This adorable device uses capacitive sensing to measure soil moisture. Its low-power e-paper display keeps you updated without draining energy. Plus, with the BME688 sensor, it is able to monitor air quality and CO2 levels, ensuring your plants thrive in optimal conditions.  <br>
 
 Specification:
 - [ESP32-C6FH4](https://www.espressif.com/sites/default/files/documentation/esp32-c6_datasheet_en.pdf): ESP32-C6 with 4 MB in-package flash
