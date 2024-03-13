@@ -16,7 +16,7 @@ Specification:
 	- `BME688` for Environmental Sensing
 	- Built-in `Soil Moisture` sensor
 	- `Battery voltage` sensing
-- 1A charge rate via USB
+- 500mA charge rate via USB
 - 3.7 Volts LiPo Battery
 
 [Link to project](https://github.com/teapotlaboratories/plantpal)
